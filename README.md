@@ -43,6 +43,6 @@ A REST api written in Django for people with deadlines
         $ python manage.py runserver
     ```
     You can now access the file api service on your browser by using
-    ```
+    ```## This link is not working and also /get-token/ url is not working in this project
         http://localhost:8000/auth/
     ```
